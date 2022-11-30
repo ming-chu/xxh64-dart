@@ -1,8 +1,7 @@
 name: xxh64
-description: xxHash is an extremely fast non-cryptographic hash algorithm,
-  It is proposed in four flavors (XXH32, XXH64, XXH3_64bits and XXH3_128bits). 
+description: xxHash is an extremely fast non-cryptographic hash algorithm, 
   This package is an implementation of xxh64 for Dart.
-version: 0.0.3
+version: 0.0.3+1
 homepage: https://github.com/ming-chu/xxh64-dart
 
 environment:
